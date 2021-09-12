@@ -1,4 +1,4 @@
-# CanpusCareers 收集整理
+# CampusCareers 收集整理
 收集的面向自动驾驶、SLAM、DL、C/C++开发的招聘信息，方便学习和投递
 
 > Created by leijobs876@gmail.com
