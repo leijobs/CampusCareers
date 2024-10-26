@@ -1,5 +1,9 @@
 # CampusCareers 收集整理
+
 收集的面向自动驾驶、SLAM、DL、C/C++开发的招聘信息，方便学习和投递
+
+> 注：在auto-only分支将更新一些智驾相关企业名单
+
 
 > Created by leijobs876@gmail.com
 
